@@ -1,2 +1,2 @@
 # git-kraken
-Authomatical Install GitKraken on Fedora/Centos
+GitKraken Automatically Install on Fedora/Centos
